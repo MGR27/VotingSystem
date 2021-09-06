@@ -10,7 +10,7 @@ The administrator can change the list of restaurants and menus, as well as vote.
 The user can vote for the restaurant they like.
 
 To start using the application you need:
-1. Save project from GitHub in the path: C:/Projects/VotingSystem;
+1. Save project from GitHub in the path: C:/Projects/votingsystem;
 2. Run Tomcat Server with url http://localhost:8080/votingsystem/ and with
    Deployment#Application context: /votingsystem;
 3. Launch your web browser in url http://localhost:8080/votingsystem/;
